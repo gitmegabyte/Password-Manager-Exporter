@@ -1,6 +1,6 @@
 # Password Manager Exporter
 
-**Project made out of boredom :D**
+**Project made out of boredom :D** 
 
 ---
 
